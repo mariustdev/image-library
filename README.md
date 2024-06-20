@@ -1,7 +1,7 @@
 # React + TypeScript + Vite
 
-## This is a home assigment (1 day)
-This is a basic image library which shows images from a public API. Stack:
+## This is a home assignment (1 day)
+This is a basic image library that shows images from a public API. Stack:
 - React + TS + Vite + Redux Toolkit
 - react-router-dom
 - Vitest + jsdom + react-testing-library
